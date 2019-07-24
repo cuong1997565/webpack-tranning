@@ -1,0 +1,148 @@
+[2019-07-24 19:49:10.853] [exthost] [info] extension host started
+[2019-07-24 19:49:10.900] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2019-07-24 19:49:10.900] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2019-07-24 19:49:10.909] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2019-07-24 19:49:10.910] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/dist/extension
+[2019-07-24 19:49:10.943] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2019-07-24 19:49:10.943] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/dist/main
+[2019-07-24 19:49:11.142] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2019-07-24 19:49:11.142] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2019-07-24 19:49:11.170] [exthost] [info] ExtensionService#_doActivateExtension bierner.color-info {"startup":true,"activationEvent":"*"}
+[2019-07-24 19:49:11.170] [exthost] [info] ExtensionService#loadCommonJSModule /home/admin123/.vscode/extensions/bierner.color-info-0.5.1/out/src/extension
+[2019-07-24 19:49:11.331] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint {"startup":true,"activationEvent":"*"}
+[2019-07-24 19:49:11.331] [exthost] [info] ExtensionService#loadCommonJSModule /home/admin123/.vscode/extensions/dbaeumer.vscode-eslint-1.9.0/client/out/extension
+[2019-07-24 19:49:11.455] [exthost] [info] ExtensionService#_doActivateExtension EditorConfig.EditorConfig {"startup":true,"activationEvent":"*"}
+[2019-07-24 19:49:11.455] [exthost] [info] ExtensionService#loadCommonJSModule /home/admin123/.vscode/extensions/editorconfig.editorconfig-0.13.0/out/src/editorConfigMain
+[2019-07-24 19:49:11.621] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag {"startup":true,"activationEvent":"*"}
+[2019-07-24 19:49:11.621] [exthost] [info] ExtensionService#loadCommonJSModule /home/admin123/.vscode/extensions/formulahendry.auto-close-tag-0.5.6/out/src/extension
+[2019-07-24 19:49:11.625] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-rename-tag {"startup":true,"activationEvent":"*"}
+[2019-07-24 19:49:11.625] [exthost] [info] ExtensionService#loadCommonJSModule /home/admin123/.vscode/extensions/formulahendry.auto-rename-tag-0.1.0/out/src/extension
+[2019-07-24 19:49:11.633] [exthost] [info] ExtensionService#_doActivateExtension pranaygp.vscode-css-peek {"startup":true,"activationEvent":"*"}
+[2019-07-24 19:49:11.633] [exthost] [info] ExtensionService#loadCommonJSModule /home/admin123/.vscode/extensions/pranaygp.vscode-css-peek-3.0.2/out/client/src/extension
+[2019-07-24 19:49:11.781] [exthost] [info] ExtensionService#_doActivateExtension vscode-icons-team.vscode-icons {"startup":true,"activationEvent":"*"}
+[2019-07-24 19:49:11.781] [exthost] [info] ExtensionService#loadCommonJSModule /home/admin123/.vscode/extensions/vscode-icons-team.vscode-icons-8.8.0/out/src/
+[2019-07-24 19:49:11.946] [exthost] [info] eager extensions activated
+[2019-07-24 19:49:28.307] [exthost] [info] extension host started
+[2019-07-24 19:49:28.340] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2019-07-24 19:49:28.340] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2019-07-24 19:49:28.344] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2019-07-24 19:49:28.344] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/dist/extension
+[2019-07-24 19:49:28.372] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2019-07-24 19:49:28.372] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/dist/main
+[2019-07-24 19:49:28.529] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2019-07-24 19:49:28.529] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2019-07-24 19:49:28.537] [exthost] [info] ExtensionService#_doActivateExtension bierner.color-info {"startup":true,"activationEvent":"*"}
+[2019-07-24 19:49:28.537] [exthost] [info] ExtensionService#loadCommonJSModule /home/admin123/.vscode/extensions/bierner.color-info-0.5.1/out/src/extension
+[2019-07-24 19:49:28.586] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint {"startup":true,"activationEvent":"*"}
+[2019-07-24 19:49:28.586] [exthost] [info] ExtensionService#loadCommonJSModule /home/admin123/.vscode/extensions/dbaeumer.vscode-eslint-1.9.0/client/out/extension
+[2019-07-24 19:49:28.665] [exthost] [info] ExtensionService#_doActivateExtension EditorConfig.EditorConfig {"startup":true,"activationEvent":"*"}
+[2019-07-24 19:49:28.665] [exthost] [info] ExtensionService#loadCommonJSModule /home/admin123/.vscode/extensions/editorconfig.editorconfig-0.13.0/out/src/editorConfigMain
+[2019-07-24 19:49:28.705] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag {"startup":true,"activationEvent":"*"}
+[2019-07-24 19:49:28.705] [exthost] [info] ExtensionService#loadCommonJSModule /home/admin123/.vscode/extensions/formulahendry.auto-close-tag-0.5.6/out/src/extension
+[2019-07-24 19:49:28.707] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-rename-tag {"startup":true,"activationEvent":"*"}
+[2019-07-24 19:49:28.707] [exthost] [info] ExtensionService#loadCommonJSModule /home/admin123/.vscode/extensions/formulahendry.auto-rename-tag-0.1.0/out/src/extension
+[2019-07-24 19:49:28.709] [exthost] [info] ExtensionService#_doActivateExtension pranaygp.vscode-css-peek {"startup":true,"activationEvent":"*"}
+[2019-07-24 19:49:28.709] [exthost] [info] ExtensionService#loadCommonJSModule /home/admin123/.vscode/extensions/pranaygp.vscode-css-peek-3.0.2/out/client/src/extension
+[2019-07-24 19:49:28.765] [exthost] [info] ExtensionService#_doActivateExtension vscode-icons-team.vscode-icons {"startup":true,"activationEvent":"*"}
+[2019-07-24 19:49:28.765] [exthost] [info] ExtensionService#loadCommonJSModule /home/admin123/.vscode/extensions/vscode-icons-team.vscode-icons-8.8.0/out/src/
+[2019-07-24 19:49:28.867] [exthost] [info] eager extensions activated
+[2019-07-24 19:51:00.910] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"activationEvent":"onLanguage:javascript"}
+[2019-07-24 19:51:00.910] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/typescript-language-features/dist/extension
+[2019-07-24 19:51:11.929] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2019-07-24 19:51:11.929] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/configuration-editing/dist/extension
+[2019-07-24 19:51:11.942] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2019-07-24 19:51:11.942] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/json-language-features/client/dist/jsonMain
+[2019-07-24 19:51:21.267] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features {"startup":false,"activationEvent":"onLanguage:html"}
+[2019-07-24 19:51:21.268] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/html-language-features/client/dist/htmlMain
+[2019-07-24 19:59:26.842] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"activationEvent":"onLanguage:typescript"}
+[2019-07-24 19:59:26.843] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/extension-editing/dist/extension
+[2019-07-24 20:04:18.203] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":false,"activationEvent":"onLanguage:json"}
+[2019-07-24 20:04:18.203] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/npm/dist/main
+[2019-07-24 20:36:46.984] [exthost] [info] ExtensionService#_doActivateExtension vscode.css-language-features {"startup":false,"activationEvent":"onLanguage:css"}
+[2019-07-24 20:36:46.984] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/css-language-features/client/dist/cssMain
+[2019-07-24 21:33:35.033] [exthost] [info] extension host started
+[2019-07-24 21:33:35.075] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2019-07-24 21:33:35.075] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2019-07-24 21:33:35.085] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2019-07-24 21:33:35.086] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/dist/extension
+[2019-07-24 21:33:35.127] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2019-07-24 21:33:35.127] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/dist/main
+[2019-07-24 21:33:35.286] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2019-07-24 21:33:35.286] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2019-07-24 21:33:35.296] [exthost] [info] ExtensionService#_doActivateExtension bierner.color-info {"startup":true,"activationEvent":"*"}
+[2019-07-24 21:33:35.296] [exthost] [info] ExtensionService#loadCommonJSModule /home/admin123/.vscode/extensions/bierner.color-info-0.5.1/out/src/extension
+[2019-07-24 21:33:35.387] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint {"startup":true,"activationEvent":"*"}
+[2019-07-24 21:33:35.387] [exthost] [info] ExtensionService#loadCommonJSModule /home/admin123/.vscode/extensions/dbaeumer.vscode-eslint-1.9.0/client/out/extension
+[2019-07-24 21:33:35.452] [exthost] [info] ExtensionService#_doActivateExtension EditorConfig.EditorConfig {"startup":true,"activationEvent":"*"}
+[2019-07-24 21:33:35.452] [exthost] [info] ExtensionService#loadCommonJSModule /home/admin123/.vscode/extensions/editorconfig.editorconfig-0.13.0/out/src/editorConfigMain
+[2019-07-24 21:33:35.508] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag {"startup":true,"activationEvent":"*"}
+[2019-07-24 21:33:35.508] [exthost] [info] ExtensionService#loadCommonJSModule /home/admin123/.vscode/extensions/formulahendry.auto-close-tag-0.5.6/out/src/extension
+[2019-07-24 21:33:35.511] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-rename-tag {"startup":true,"activationEvent":"*"}
+[2019-07-24 21:33:35.511] [exthost] [info] ExtensionService#loadCommonJSModule /home/admin123/.vscode/extensions/formulahendry.auto-rename-tag-0.1.0/out/src/extension
+[2019-07-24 21:33:35.516] [exthost] [info] ExtensionService#_doActivateExtension pranaygp.vscode-css-peek {"startup":true,"activationEvent":"*"}
+[2019-07-24 21:33:35.516] [exthost] [info] ExtensionService#loadCommonJSModule /home/admin123/.vscode/extensions/pranaygp.vscode-css-peek-3.0.2/out/client/src/extension
+[2019-07-24 21:33:35.603] [exthost] [info] ExtensionService#_doActivateExtension vscode-icons-team.vscode-icons {"startup":true,"activationEvent":"*"}
+[2019-07-24 21:33:35.603] [exthost] [info] ExtensionService#loadCommonJSModule /home/admin123/.vscode/extensions/vscode-icons-team.vscode-icons-8.8.0/out/src/
+[2019-07-24 21:33:35.804] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"activationEvent":"onLanguage:json"}
+[2019-07-24 21:33:35.804] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/configuration-editing/dist/extension
+[2019-07-24 21:33:35.818] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"activationEvent":"onLanguage:json"}
+[2019-07-24 21:33:35.818] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/extension-editing/dist/extension
+[2019-07-24 21:33:35.895] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"activationEvent":"onLanguage:json"}
+[2019-07-24 21:33:35.895] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/json-language-features/client/dist/jsonMain
+[2019-07-24 21:33:36.004] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":false,"activationEvent":"onLanguage:json"}
+[2019-07-24 21:33:36.004] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/npm/dist/main
+[2019-07-24 21:33:36.031] [exthost] [info] eager extensions activated
+[2019-07-24 21:35:23.991] [exthost] [info] extension host started
+[2019-07-24 21:35:24.023] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2019-07-24 21:35:24.023] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2019-07-24 21:35:24.028] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2019-07-24 21:35:24.028] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/dist/extension
+[2019-07-24 21:35:24.055] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2019-07-24 21:35:24.055] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/dist/main
+[2019-07-24 21:35:24.211] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2019-07-24 21:35:24.211] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2019-07-24 21:35:24.219] [exthost] [info] ExtensionService#_doActivateExtension bierner.color-info {"startup":true,"activationEvent":"*"}
+[2019-07-24 21:35:24.219] [exthost] [info] ExtensionService#loadCommonJSModule /home/admin123/.vscode/extensions/bierner.color-info-0.5.1/out/src/extension
+[2019-07-24 21:35:24.267] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint {"startup":true,"activationEvent":"*"}
+[2019-07-24 21:35:24.267] [exthost] [info] ExtensionService#loadCommonJSModule /home/admin123/.vscode/extensions/dbaeumer.vscode-eslint-1.9.0/client/out/extension
+[2019-07-24 21:35:24.324] [exthost] [info] ExtensionService#_doActivateExtension EditorConfig.EditorConfig {"startup":true,"activationEvent":"*"}
+[2019-07-24 21:35:24.324] [exthost] [info] ExtensionService#loadCommonJSModule /home/admin123/.vscode/extensions/editorconfig.editorconfig-0.13.0/out/src/editorConfigMain
+[2019-07-24 21:35:24.361] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag {"startup":true,"activationEvent":"*"}
+[2019-07-24 21:35:24.361] [exthost] [info] ExtensionService#loadCommonJSModule /home/admin123/.vscode/extensions/formulahendry.auto-close-tag-0.5.6/out/src/extension
+[2019-07-24 21:35:24.363] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-rename-tag {"startup":true,"activationEvent":"*"}
+[2019-07-24 21:35:24.363] [exthost] [info] ExtensionService#loadCommonJSModule /home/admin123/.vscode/extensions/formulahendry.auto-rename-tag-0.1.0/out/src/extension
+[2019-07-24 21:35:24.366] [exthost] [info] ExtensionService#_doActivateExtension pranaygp.vscode-css-peek {"startup":true,"activationEvent":"*"}
+[2019-07-24 21:35:24.366] [exthost] [info] ExtensionService#loadCommonJSModule /home/admin123/.vscode/extensions/pranaygp.vscode-css-peek-3.0.2/out/client/src/extension
+[2019-07-24 21:35:24.421] [exthost] [info] ExtensionService#_doActivateExtension vscode-icons-team.vscode-icons {"startup":true,"activationEvent":"*"}
+[2019-07-24 21:35:24.421] [exthost] [info] ExtensionService#loadCommonJSModule /home/admin123/.vscode/extensions/vscode-icons-team.vscode-icons-8.8.0/out/src/
+[2019-07-24 21:35:24.524] [exthost] [info] eager extensions activated
+[2019-07-24 21:35:33.700] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"activationEvent":"onLanguage:javascript"}
+[2019-07-24 21:35:33.700] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/typescript-language-features/dist/extension
+[2019-07-24 21:36:05.888] [exthost] [info] extension host started
+[2019-07-24 21:36:05.958] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"activationEvent":"onLanguage:javascript"}
+[2019-07-24 21:36:05.958] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/typescript-language-features/dist/extension
+[2019-07-24 21:36:06.113] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2019-07-24 21:36:06.113] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2019-07-24 21:36:06.122] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2019-07-24 21:36:06.122] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/dist/extension
+[2019-07-24 21:36:06.151] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2019-07-24 21:36:06.151] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/dist/main
+[2019-07-24 21:36:06.343] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2019-07-24 21:36:06.343] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2019-07-24 21:36:06.374] [exthost] [info] ExtensionService#_doActivateExtension bierner.color-info {"startup":true,"activationEvent":"*"}
+[2019-07-24 21:36:06.374] [exthost] [info] ExtensionService#loadCommonJSModule /home/admin123/.vscode/extensions/bierner.color-info-0.5.1/out/src/extension
+[2019-07-24 21:36:06.457] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint {"startup":true,"activationEvent":"*"}
+[2019-07-24 21:36:06.457] [exthost] [info] ExtensionService#loadCommonJSModule /home/admin123/.vscode/extensions/dbaeumer.vscode-eslint-1.9.0/client/out/extension
+[2019-07-24 21:36:06.540] [exthost] [info] ExtensionService#_doActivateExtension EditorConfig.EditorConfig {"startup":true,"activationEvent":"*"}
+[2019-07-24 21:36:06.540] [exthost] [info] ExtensionService#loadCommonJSModule /home/admin123/.vscode/extensions/editorconfig.editorconfig-0.13.0/out/src/editorConfigMain
+[2019-07-24 21:36:06.587] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag {"startup":true,"activationEvent":"*"}
+[2019-07-24 21:36:06.587] [exthost] [info] ExtensionService#loadCommonJSModule /home/admin123/.vscode/extensions/formulahendry.auto-close-tag-0.5.6/out/src/extension
+[2019-07-24 21:36:06.589] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-rename-tag {"startup":true,"activationEvent":"*"}
+[2019-07-24 21:36:06.589] [exthost] [info] ExtensionService#loadCommonJSModule /home/admin123/.vscode/extensions/formulahendry.auto-rename-tag-0.1.0/out/src/extension
+[2019-07-24 21:36:06.592] [exthost] [info] ExtensionService#_doActivateExtension pranaygp.vscode-css-peek {"startup":true,"activationEvent":"*"}
+[2019-07-24 21:36:06.592] [exthost] [info] ExtensionService#loadCommonJSModule /home/admin123/.vscode/extensions/pranaygp.vscode-css-peek-3.0.2/out/client/src/extension
+[2019-07-24 21:36:06.669] [exthost] [info] ExtensionService#_doActivateExtension vscode-icons-team.vscode-icons {"startup":true,"activationEvent":"*"}
+[2019-07-24 21:36:06.669] [exthost] [info] ExtensionService#loadCommonJSModule /home/admin123/.vscode/extensions/vscode-icons-team.vscode-icons-8.8.0/out/src/
+[2019-07-24 21:36:06.828] [exthost] [info] eager extensions activated
+[2019-07-24 21:37:20.449] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"activationEvent":"onLanguage:typescript"}
+[2019-07-24 21:37:20.449] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/extension-editing/dist/extension
