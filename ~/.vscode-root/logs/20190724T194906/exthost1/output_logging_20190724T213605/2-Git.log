@@ -27,3 +27,16 @@ Open repository: /var/www/webpack/lession03-webpack
 > git show :src/index.js
 > git ls-files --stage -- src/
 > git check-ignore -z --stdin
+> git show :src/index.js
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git show :db.js
+> git ls-files --stage -- ./
+> git check-ignore -z --stdin
+> git show :db.json
+> git ls-files --stage -- ./
+> git check-ignore -z --stdin
